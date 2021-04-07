@@ -5,13 +5,15 @@
 
 This project is to collect english news article contents on Korean public english news website and save them to mySQL database.
 
-<a href = "http://www.arirang.com/news/News_Index.asp?sys_lang=Eng"</a>
+
 
 <img src = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/arirang%20news%20webpage.png"/>
 
 ### about the data
 
 Arirang TV/Radio is a public service agency that provides news and entertainment on Korea for the international community. mediums. As a representative English broadcasting station based in Korea. Arirang TV/Radio operates international television, Internet and domestic television services.
+
+<a href = "http://www.arirang.com/news/News_Index.asp?sys_lang=Eng"> Visit the website.</a>
 
 Their article texts are under public domain, which means you can utilize over 10k english news articles freely as long as you cite the source and attach Korea Open Government License(KOGL) on your work.
 
