@@ -7,7 +7,7 @@ This project is to collect english news article contents on Korean public englis
 
 <a href = "arirang.com/News/News_Index.asp">arirang.com/News/News_Index.asp</a>
 
-<img href = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/arirang%20news%20webpage.png"/>
+<img src = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/arirang%20news%20webpage.png"/>
 
 ### about the data
 
@@ -15,7 +15,7 @@ Arirang TV/Radio is a public service agency that provides news and entertainment
 
 Their article texts are under public domain, which means you can utilize over 10k english news articles freely as long as you cite the source and attach Korea Open Government License(KOGL) on your work.
 
-<img href = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/KOGL_logo.gif"/>
+<img src = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/KOGL_logo.gif"/>
 
 Please check out its copyright policy on the <a href = "https://www.arirang.com/help/copyright_policy.asp?sys_lang=Eng"> website.</a> for more information.
 
