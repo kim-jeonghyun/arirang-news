@@ -5,7 +5,7 @@
 
 This project is to collect english news article contents on Korean public english news website and save them to mySQL database.
 
-<a href = "arirang.com/News/News_Index.asp">arirang.com/News/News_Index.asp</a>
+<a href = "http://www.arirang.com/news/News_Index.asp?sys_lang=Eng"</a>
 
 <img src = "https://github.com/kim-jeonghyun/arirang-news/blob/main/img/arirang%20news%20webpage.png"/>
 
